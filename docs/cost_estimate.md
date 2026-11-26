@@ -33,5 +33,10 @@ Data Flow, SSIS, Managed VNET and self-hosted runtimes: not used (0).
 - Data transfer: none between clouds (Snowflake and ADLS both in Azure Switzerland North)
 
 ## Screenshots
+**Storage account estimate (per month):**
+
 ![Storage estimate](images/azure/07-cost-estimate-storage.png)
+
+**Total estimate in EUR:**
+
 ![Total estimate](images/azure/07-cost-estimate-total-eur.png)
