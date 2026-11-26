@@ -11,6 +11,8 @@ Source: Azure Pricing Calculator, 2026-11-26 ([Excel export](cost/azure_pricing_
 | **Total** | | **1.06** | **12.70** |
 
 Storage detail (monthly): capacity 0.02, write ops 0.06, read ops 0.01, iterative read 0.01, iterative write 0.06, other ops 0.01.
+Note: copy time (data integration unit hours) was left at 0 in the calculator; with 1 DIU-hour (EUR 0.22) the upper bound is about EUR 1.28/month. Line items are rounded, so they may not add up exactly.
+
 Not used (0): Data Flow, SSIS, Managed VNET runtime, self-hosted runtime, SFTP, blob access points.
 
 ## Realistic monthly cost
