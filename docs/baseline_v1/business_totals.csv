@@ -1,0 +1,8 @@
+METRIC,VALUE
+fct_spend rows,2541
+fct_spend total EUR,409527035.98
+suppliers with spend,196
+dim_supplier rows,200
+risk_current rows,161
+files registered,43
+gate status,PASS
