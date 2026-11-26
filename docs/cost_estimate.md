@@ -37,6 +37,4 @@ Charter target: under EUR 1 per month (realistic) - met.
 - Data transfer between clouds: none (Snowflake and ADLS both in Azure Switzerland North)
 
 ## Evidence
-**Storage account estimate** (screenshot taken in USD before switching currency: $0.18 ≈ €0.16 at 1 USD = 0.90 EUR):
-
-![Storage estimate](images/azure/07-cost-estimate-storage.png)
+Full calculator export: [azure_pricing_estimate.xlsx](cost/azure_pricing_estimate.xlsx)
