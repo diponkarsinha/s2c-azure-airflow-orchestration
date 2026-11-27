@@ -9,7 +9,7 @@ Part of a three-repo project:
 - **s2c-azure-airflow-orchestration** (this repo): Azure infrastructure and the Airflow DAG
 
 ## Status
-In progress: Phase 0 (preparation)
+In progress: Phase 1 (storage)
 
 ## Documents
 - [Project charter](docs/project_charter.md)
