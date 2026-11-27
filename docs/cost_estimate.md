@@ -1,7 +1,7 @@
 # Cost estimate: S2C Azure landing + Airflow
 
 **Status: Approved 2026-11-27** | Region: Switzerland North (same as Snowflake: AZURE_SWITZERLANDN) | Currency: EUR
-Source: Azure Pricing Calculator, 2026-11-26 ([Excel export](cost/azure_pricing_estimate.xlsx))
+Source: Azure Pricing Calculator, 2026-11-26
 
 ## Calculator result (upper bound)
 | Service | Configuration | Monthly | Annual |
@@ -39,4 +39,4 @@ Charter target: under EUR 1 per month (realistic) - met.
 - Data transfer between clouds: none (Snowflake and ADLS both in Azure Switzerland North)
 
 ## Evidence
-Full calculator export: [azure_pricing_estimate.xlsx](cost/azure_pricing_estimate.xlsx)
+Figures taken from the Azure Pricing Calculator on 2026-11-26 (region Switzerland North, currency EUR).
