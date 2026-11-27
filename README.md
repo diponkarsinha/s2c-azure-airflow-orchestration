@@ -18,3 +18,7 @@ In progress: Phase 0 (preparation)
 - [Cost estimate](docs/cost_estimate.md)
 - [Design document](docs/design.md)
 - [Backlog board](https://github.com/users/diponkarsinha/projects/1)
+
+## Backlog
+
+[Project board](https://github.com/users/diponkarsinha/projects/1)
