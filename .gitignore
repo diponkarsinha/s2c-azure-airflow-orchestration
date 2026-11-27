@@ -16,5 +16,4 @@ venv/
 .idea/
 .vscode/
 *.pdf
-*.pdf
 *.xlsx
